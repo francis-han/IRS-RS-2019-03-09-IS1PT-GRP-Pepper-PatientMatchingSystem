@@ -69,7 +69,10 @@ This system provides benefits to those who are diagnosed with depression by matc
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-### DEFINITION OF DEPRESSION
-Depression is a chronic illness often with episodes lasting months and high rates of relapses. It is known to cause the patient much suffering, the family distress and significantly increase the risk of suicide. Most people with depression will seek help from their family doctors. Sometimes, they present to the doctors with only physical symptoms such as headaches, chest pains or body ache. This form of presentation is particularly common in people with chronic illness as well as in teens and the elderly. As a result, depression can often be masked and the diagnosis of depression may be missed or disregarded.
-Severe depression can be readily recognized but it may be difficult to distinguish milder form of depression from emotional changes associated with everyday life. Life stresses such as job loss, divorce, and the death of a loved one can result in a sad mood of short duration. Clinical depression or Major Depressive Disorder develops when depressed mood becomes much worse and persistent and is accompanied by other symptoms and lasts for more than two weeks. When depressed, a person may start to have difficulties with his sleep. He feels unmotivated and will no longer be interested in his work and the usual things he liked. He can also have problems with his appetite and weight. When performing activities, he has little energy and cannot concentrate. He may feel guilty about things he has done wrong and ruminate excessively about the past. When the depression becomes more severe, he will feel that life is hopeless and may contemplate or even attempt suicide. Patients tell us that when they are suffering from Major Depressive Disorder, it is like wearing a pair of shades that cannot be removed and everything looks dark and gloomy
+### COMPARISON OF DIFFERENT SEARCH TECHNIQUES
+
+Explanation......
+
+<img src="Miscellaneous/SearchResults.gif"
+     style="float: left; margin-right: 0px;" />
 
