@@ -35,7 +35,7 @@ This system provides benefits to those who are diagnosed with depression by matc
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/francis-han/Group-Project/blob/master/UserGuide/Users%20Manual.pdf>
+`<Github File Link>` : <https://github.com/francis-han/IRS-RS-2019-03-09-IS1PT-GRP-Pepper-PatientMatchingSystem/blob/master/UserGuide/Users%20Manual_Patient%20Matching.docx>
 
 ### [ * ] In order to run the system, you need Java 8 or later version.
 
