@@ -37,25 +37,18 @@ This system provides benefits to those who are diagnosed with depression by matc
 
 `<Github File Link>` : <https://github.com/francis-han/Group-Project/blob/master/UserGuide/Users%20Manual.pdf>
 
-### [ 1 ] To run the system in windows or iss-vm
-
-> $ git clone https://github.com/francis-han/IRS-MR-2019-07-01-IS1PT-GRP-Pepper-DepressionScreeningSystem.git
-
-> go to /SystemCodes/Submission/, unzip IRS-MR-2019-01-19-IS1PT-GRP-Depression_Screening_System.zip and get the mr-phq9-0.1.0.jar.
-
-> open CMD window, go to the folder which contains the jar file, eg: cd C:\Users\cl\Documents\GitHub\Group-Project\SystemCodes\
-
-> run command: java -jar mr-phq9-0.1.0.jar
-
-> **Go to URL using web browser** http://127.0.0.1:8090 or http://0.0.0.0:8090 
-
-### [ 1 ] In order to run the system, you need Java 8 or later version.
+### [ * ] In order to run the system, you need Java 8 or later version.
 
 > Download this file from https://github.com/francis-han/IRS-RS-2019-03-09-IS1PT-GRP-Pepper-PatientMatchingSystem/tree/master/SystemCodes/Submission/IRS-RS-2019-03-09-IS1PT-GRP-Pepper-PatientMatchingSystem.zip
+
 > The file contains both executable jar and db files.
+
 > Unzip the zip file, there will be a folder named "rs-patient-matching" generated.
+
 > Open cmd/bash window, go to the above "rs-patient-matching" folder, eg: cd C:\Users\ Desktop\rs-patient-matching\
+
 > Run command: java -jar rs-patient-matching-0.1.0.jar
+
 > Open link: http://localhost:8090/ in browser.
 
 > To run our system, type the command “java -jar rs-patient-matching-0.1.0.jar”.
