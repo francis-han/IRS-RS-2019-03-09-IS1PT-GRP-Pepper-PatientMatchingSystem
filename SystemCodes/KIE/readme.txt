@@ -4,7 +4,7 @@
 
 3. Sending API command to setup solver and also sending the input system. Finally retrieve the result. To send POSTMAN command, follow the following steps:
 
-    Part 1
+    Part 1 (Sending PUT command to setup the solver )
 
     >command
     PUT
@@ -28,7 +28,7 @@
     <solver-config-file>com/phqtime/phqtimetable/TimeSolver.solver.xml</solver-config-file>
     </solver-instance>
 
-    Part 2
+    Part 2 (POST the input data)
     
     >Command
     POST
