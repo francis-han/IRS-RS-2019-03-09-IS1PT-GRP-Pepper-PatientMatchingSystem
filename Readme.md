@@ -20,11 +20,11 @@ This system provides benefits to those who are diagnosed with depression by matc
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| CAO LIANG            | A0012884E | Architect, Application Logic, DROOLS Rules and Integration     | A0012884E@nus.edu.sg |
-| GENG LIANGYU         | A0195278M | Web Application and Landing Page                               | A0195278M@nus.edu.sg |
-| HAN DONGCHOU FRANCIS | A0195414A | Team Lead, Documentation, and Submission                       | A0195414A@nus.edu.sg |
-| ONG BOON PING        | A0195172B | KIE Workflow and Data Structure                                | A0195172B@nus.edu.sg |
-| TAN CHIN GEE         | A0195296M | Domain Expert and Documentation                                | A0195296M@nus.edu.sg |
+| CAO LIANG            | A0012884E | Architect, Application Logic, DROOLS Rules and Integration     | e0384184@u.nus.edu |
+| GENG LIANGYU         | A0195278M | Web Application and Landing Page                               | e0384909@u.nus.edu |
+| HAN DONGCHOU FRANCIS | A0195414A | Team Lead, Documentation, and Submission                       | e0385045@u.nus.edu |
+| ONG BOON PING        | A0195172B | KIE Workflow and Data Structure                                | e0384803@u.nus.edu |
+| TAN CHIN GEE         | A0195296M | Domain Expert and Documentation                                | e0384927@u.nus.edu |
 
 
 ---
@@ -49,22 +49,12 @@ This system provides benefits to those who are diagnosed with depression by matc
 
 > **Go to URL using web browser** http://127.0.0.1:8090 or http://0.0.0.0:8090 
 
+
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 `<Github File Link>` : <https://github.com/francis-han/Group-Project/blob/master/Project%20Report/Project%20Report5.pdf>
 
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- List of Abbreviations (if applicable)
-- References (if applicable)
 
 ---
 ## SECTION 7 : MISCELLANEOUS
