@@ -67,27 +67,23 @@ This system provides benefits to those who are diagnosed with depression by matc
 
 ### BENCHMARK OF DIFFERENT SEARCH TECHNIQUES
 
-A benchmark test is conducted against the various search algorithms as follows. We have made some observations as follows. All hard constraints are met. The level of soft constraints being met varies across the different search algorithms.
+A benchmark test was conducted against the various search algorithms as follows. We have made some observations as follows. All hard constraints are met. The level of soft constraints being met varies across the different search algorithms.
 
 > **First Fit Decreasing**
-
-> This is the slowest search algorithm in our scenario. Construction heuristic without metaheuristic.
+> This is the slowest search algorithm in our scenario. This demonstrates the main characteristic of construction heuristic vs metaheuristic.
 
 > **Tabu Search**
-
-> This search made the fastest progress in the beginning but takes a long time to converge into global optimum compared to Late Aceptance.
+> This search made the fastest progress in the beginning but took a long time to converge into global optimum compared to Late Aceptance.
 
 > **Simulated Annealing**
-
 > This is the slowest search.
 
 > **Late Acceptance**
-
 > This is the fatest to reach the global optimum.
 
 > **Step Counting Hill Climbing**
+> This has reasonable performance and reached global optimum quite fast.
 
-> It has reasonable performance and reaches global optimum quite fast.
 
 
 <img src="Miscellaneous/SearchResults.gif"
