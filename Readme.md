@@ -59,7 +59,7 @@ This system provides benefits to those who are diagnosed with depression by matc
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/francis-han/Group-Project/blob/master/Project%20Report/Project%20Report5.pdf>
+`<Github File Link>` : <https://github.com/francis-han/IRS-RS-2019-03-09-IS1PT-GRP-Pepper-PatientMatchingSystem/blob/master/ProjectReport/Project%20Report%20V2.pdf>
 
 
 ---
