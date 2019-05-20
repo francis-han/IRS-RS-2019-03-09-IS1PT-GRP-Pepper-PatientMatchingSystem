@@ -1,4 +1,4 @@
-## SECTION 1 : PROJECT TITLE
+﻿## SECTION 1 : PROJECT TITLE
 ## Patient Matching System
 
 <img src="Miscellaneous/Banner.gif"
@@ -29,8 +29,7 @@ This system provides benefits to those who are diagnosed with depression by matc
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-
-[Introduction Video](https://youtu.be/RXYVsCB5vHU)
+[![Patient Matching System](https://img.youtube.com/vi/RXYVsCB5vHU/1.jpg)](https://youtu.be/RXYVsCB5vHU "Patient Matching System")
 
 ---
 ## SECTION 5 : USER GUIDE
@@ -83,7 +82,6 @@ A benchmark test was conducted against the various search algorithms as follows.
 
 > **Step Counting Hill Climbing**
 > This has reasonable performance and reached global optimum quite fast.
-
 
 
 <img src="Miscellaneous/SearchResults.gif"
